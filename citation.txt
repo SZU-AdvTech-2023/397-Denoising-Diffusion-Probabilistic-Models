@@ -1,0 +1,8 @@
+@inproceedings{REPO397,
+    author = "Ho, Jonathan and Jain, Ajay and Abbeel, Pieter",
+    booktitle = "Advances in Neural Information Processing Systems",
+    pages = "6840--6851",
+    title = "{Denoising Diffusion Probabilistic Models}",
+    volume = "33",
+    year = "2020"
+}
